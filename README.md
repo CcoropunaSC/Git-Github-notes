@@ -1,14 +1,14 @@
-<p align="center"><a href="https://git-scm.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="200"></a></p>
-<p align="center"><a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"></a></p>
+<p align="center"><a href="https://git-scm.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="200"></a>
+<a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"></a></p>
 
-# OF GIT AND GITHUB
+# NOTES OF GIT AND GITHUB
 
 ## Contents
--[GIT](#git)
-    -[Global Settings](#global-settings)
-    -[Area in **Git**](#areas-in-git)
-    -[Start a Repository](#start-a-repository)
--[GITHUB](#github)
+- [GIT](#git)
+    - [Global Settings](#global-settings)
+    - [Area in **Git**](#areas-in-git)
+    - [Start a Repository](#start-a-repository)
+- [GITHUB](#github)
 
 ## GIT
 
@@ -28,7 +28,7 @@
 <code>$ git config -l</code>                               
 
 <div align="right">
-  <small><a href="#table-of-contents">🡡 to top</a></small>
+  <small><a href="#contents">🡡 to top</a></small>
 </div>
 
 ### Areas in **Git**
@@ -37,7 +37,7 @@
 3. Repositorio (/.git/)
 
 <div align="right">
-  <small><a href="#table-of-contents">🡡 to top</a></small>
+  <small><a href="#contents">🡡 to top</a></small>
 </div>
 
 ### Start a Repository
@@ -45,7 +45,7 @@
 <code>$ git init </code>                                           
 
 <div align="right">
-  <small><a href="#table-of-contents">🡡 to top</a></small>
+  <small><a href="#contents">🡡 to top</a></small>
 </div>
 
 ## GITHUB
